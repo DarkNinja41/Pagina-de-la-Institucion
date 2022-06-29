@@ -1,0 +1,18 @@
+button {
+  background-color: #0495ff;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding: 20px 10px;
+  width: 200px;
+  border: 4px solid #0495ff;
+  border-radius: 12px;
+  transition-duration: 0.2s;
+  -webkit.transition-duration: 0.2s;
+
+}
+
+button:hover{
+  background-color: white;
+  color: #0495ff;
+}
